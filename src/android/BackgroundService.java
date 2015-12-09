@@ -21,7 +21,7 @@ import android.util.Log;
 import com.red_folder.phonegap.plugin.backgroundservice.BackgroundServiceApi;
 import com.scaf.android.client.service.ScienerBLEService;
 
-public abstract class BackgroundService extends Service {
+public abstract class BackgroundService extends ScienerBLEService {
 	
 	/*
 	 ************************************************************************************************
