@@ -56,6 +56,5 @@
 		
         <source-file src="aidl/android/BackgroundServiceApi.aidl" target-dir="src/com/red_folder/phonegap/plugin/backgroundservice" />
         <source-file src="aidl/android/BackgroundServiceListener.aidl" target-dir="src/com/red_folder/phonegap/plugin/backgroundservice" />
-		<source-file src="src/lib/scieneropenapi.jar" target-dir="libs" />
     </platform>
 </plugin>
